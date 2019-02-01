@@ -1,0 +1,14 @@
+#error {
+    color: red;
+}
+
+#paginador{
+    text-align: center; 
+    font-size: 1.5em;
+}
+
+/*Color de los enlaces del paginador*/
+#paginador a {
+    color: white;
+}
+
